@@ -51,6 +51,7 @@
   },
   "devDependencies": {
     "@anthropic-ai/mcpb": "^2.1.2",
+    "@codspeed/vitest-plugin": "^5.2.0",
     "@octokit/rest": "^22.0.1",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",

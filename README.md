@@ -6,6 +6,7 @@
 
 [![Contributors](https://img.shields.io/github/contributors/archestra-ai/website)](https://github.com/archestra-ai/website/graphs/contributors)
 [![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack)](https://join.slack.com/t/archestracommunity/shared_invite/zt-39yk4skox-zBF1NoJ9u4t59OU8XxQChg)
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/darthzoloft/website?utm_source=badge)
 
 </div>
 
